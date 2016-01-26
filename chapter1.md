@@ -19,9 +19,10 @@ Assignment comes here. Use Markdown for text formatting.
 - option 1
 - option 2
 - option 3
+- option testthis
 
 *** =hint
-hint comes here
+Just another hint
 
 *** =pre_exercise_code
 ```{r}
